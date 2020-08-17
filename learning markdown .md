@@ -12,9 +12,9 @@ This is where i talk about what I learned about markdown:
   
   Fixed|Growth
   ----
-  challenges
-  obstacles 
-  effort 
-  criticism
+  challenges,
+  obstacles, 
+  effort,
+  criticism, and the
   success of others
   
