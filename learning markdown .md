@@ -9,7 +9,8 @@ This is where i talk about what I learned about markdown:
   Our team explored
   ![TITLE](URL) image pasting
   
-  #And# ###chart creation:###
+  # And #
+  ## Chart Creation 
   
   Fixed|Growth
   ----
