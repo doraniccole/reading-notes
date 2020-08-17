@@ -10,7 +10,7 @@ Three reminders to keep myself in a growth mindest
 - item 3
 
 ## Table of Contents
-- [learning markdown] (learning_markdown.md)
+- [learning markdown](learning_markdown.md)
 - class 1
 - class 2
 - class 3
