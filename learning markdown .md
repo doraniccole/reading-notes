@@ -6,4 +6,15 @@ This is where i talk about what I learned about markdown:
 
 ![mindest tutorial](/https://images.app.goo.gl/KL1McH3K3H8MyxtJ7)(url)
   
+  Our team explored
+  ![TITLE](URL) image pasting
+  And chart creation:
+  
+  Fixed|Growth
+  ----
+  challenges
+  obstacles 
+  effort 
+  criticism
+  success of others
   
