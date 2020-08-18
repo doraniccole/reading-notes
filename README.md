@@ -23,3 +23,5 @@ Three reminders to keep myself in a growth mindest
 - class 8
 - class 9
 - class 10
+
+[<<back](Coders Computer)
