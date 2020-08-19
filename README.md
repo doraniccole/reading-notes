@@ -15,7 +15,7 @@ Three reminders to keep myself in a growth mindest
 - [Learning Markdown](learning_markdown.md)
 - [Coders Computer](coders_computer.md)
 - [Git Intro](git_intro.md)
-- class 3
+- [Terminal Commands](terminal_commands.md)
 - class 4
 - class 5
 - class 6 
