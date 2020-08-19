@@ -12,9 +12,9 @@ Three reminders to keep myself in a growth mindest
 - Find lessons, inspiration and celebate success of others
 
 ## Table of Contents
-- [learning markdown](learning_markdown.md)
-- [coders computer](coders_computer.md)
-- class 2
+- [Learning Markdown](learning_markdown.md)
+- [Coders Computer](coders_computer.md)
+- [Git Intro](git_intro.md)
 - class 3
 - class 4
 - class 5
@@ -24,4 +24,4 @@ Three reminders to keep myself in a growth mindest
 - class 9
 - class 10
 
-[<<back](CodersComputer)
+[<<back](Coders_Computer.md)
