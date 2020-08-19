@@ -22,6 +22,6 @@ This is where i talk about what I learned about markdown:
   criticism, and the
   success of others
   
-  [<<back](readme.md)
+  [<<back](README.md)
   
   
