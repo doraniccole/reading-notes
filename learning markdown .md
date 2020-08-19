@@ -6,7 +6,7 @@ This is where i talk about what I learned about markdown:
 1. A person can add a google link: link to Google!
 
 
-1. ![mindest tutorial](/https://images.app.goo.gl/KL1McH3K3H8MyxtJ7)(url)
+1. ![mindest tutorial](img style="-webkit-user-select: none;margin: auto;" src="https://www.aconsciousrethink.com/wp-content/uploads/2018/03/growth-mindset-702x336.jpg")
   
 1. Our team explored
   ![TITLE](URL) image pasting
