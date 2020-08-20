@@ -6,10 +6,10 @@ My name is dora. I am an eager learner.
 
 ## What Growth Mindset means to me
 
-Three reminders to keep myself in a growth mindest
+Three reminders to keep myself in a growth mindset:
 - Embrace Challenges
 - Persist in the face of setbacks
-- Find lessons, inspiration and celebate success of others
+- Find lessons, gain inspiration, and celebrate the success of others
 
 ## Table of Contents
 - [Learning Markdown](learning_markdown.md)
@@ -24,4 +24,4 @@ Three reminders to keep myself in a growth mindest
 - class 9
 - class 10
 
-[<<back](Coders_Computer.md)
+[<<back](coders_computer.md)
