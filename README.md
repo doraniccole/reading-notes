@@ -13,7 +13,7 @@ Three reminders to keep myself in a growth mindset:
 
 ## Table of Contents
 - [Learning Markdown](learning_markdown.md)
-- [Coders Computer](coders_computer.md)
+- [Coders Computer](Coders_Computer.md)
 - [Git Intro](git_intro.md)
 - [Terminal Commands](terminal_commands.md)
 - class 4
@@ -24,4 +24,4 @@ Three reminders to keep myself in a growth mindset:
 - class 9
 - class 10
 
-[<<back](coders_computer.md)
+[<<back](Coders_Computer.md)
