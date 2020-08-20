@@ -1,8 +1,8 @@
 # Reading-notes entry ideas:
 
-1. Blog Article (2-3 paragraphs with code sample)
-Dictionary / Flash Cards
-Notes in outline form
-Comparison of “basic” text editor vs coding-specific text editor vs IDE.
+1. 
+Git and GitHub are tools to create files and remotely communicate those files and documents to and form the computer terminal.
+
+Git and the GitHub website allow the user to create a repository of files and folders for copying, making changes, and updating those files and folders be read to and from any other computer.
 
 [<<back](README.md)
