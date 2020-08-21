@@ -17,7 +17,7 @@ Three reminders to keep myself in a growth mindset:
 - [Git Intro](git_intro.md)
 - [Terminal Commands](terminal_commands.md)
 - class 4
-- class 5
+- [CSS Page Design](design_web_pages_css.md)
 - class 6 
 - class 7
 - class 8
