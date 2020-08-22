@@ -16,12 +16,10 @@ Three reminders to keep myself in a growth mindset:
 - [Coders Computer](Coders_Computer.md)
 - [Git Intro](git_intro.md)
 - [Terminal Commands](terminal_commands.md)
-- class 4
 - [CSS Page Design](design_web_pages_css.md)
-- class 6 
-- class 7
-- class 8
-- class 9
-- class 10
+- [How Computers Work](how_computers_work.06b.md)
+- [Programming with JavaScript](javascript_notes.md)
+- [Loops and Operations](loops_operations.md)
+- [Resume CodeFellows](resume_screenshot.png)
 
-[<<back](Coders_Computer.md)
+[<<back](terminal_commands.md)
