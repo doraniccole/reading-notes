@@ -22,4 +22,22 @@ Three reminders to keep myself in a growth mindset:
 - [Loops and Operations](loops_operations.md)
 - [Resume CodeFellows](resume_screenshot.png)
 
+Code 201 Reading Notes
+Reading Assignments
+[Reading Notes Class 01]()
+[Reading Notes Class 02]()
+reading assignment
+reading assignment
+reading assignment.
+reading assignment
+reading assignment
+reading assignment
+reading assignment
+reading assignment
+reading assignment
+reading assignment
+reading assignment
+reading assignment
+reading assignment
+
 [<<back](terminal_commands.md)
