@@ -26,8 +26,8 @@ Three reminders to keep myself in a growth mindset:
 ## Code 201 Reading Notes
 
 ### Reading Assignments
-1. [Reading Notes Class 01](201/class_01.md)
-2. [Reading Notes Class 02](201/class-02.md)
+1. [Reading Notes Class 01](class_01.md)
+2. [Reading Notes Class 02](class-02.md)
 3. reading assignment
 4. reading assignment
 5. reading assignment.
