@@ -34,7 +34,7 @@ Three reminders to keep myself in a growth mindset:
 6. [Reading Notes Class 06](read_06_objectliterals.md)
 7. [Reading Notes Class 07](class-07.md)
 8. reading assignment
-9. reading assignment
+9. [Reading Notes Class 10](class-10.md)
 10. reading assignment
 11. reading assignment
 12. reading assignment
