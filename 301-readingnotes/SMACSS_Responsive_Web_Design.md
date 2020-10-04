@@ -11,8 +11,8 @@
 - relative lengths are then used to declare common grid property values such as `width`, `margin`, or `padding`
 ### Relative Viewport Lengths
 - `vw` Viewports widthvh
-- `vh` Viewports heightvmin
-- `v min` Minimum of the viewport’s height and widthvmax
+- `vh` Viewports height vmin
+- `v min` Minimum of the viewport’s height and width vmax
 - `v max` Maximum of the viewport’s height and width
 ### Flexible Grid
 - `section`
