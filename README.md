@@ -45,6 +45,6 @@ Three reminders to keep myself in a growth mindset:
 ## Code 301 Reading Notes
 
 ## Table of Contents
-- [Read: 01 - SMACSS and Responsive Web Design] (SMACSS_Responsive_Web_Design.md)
+- [Read: 01 - SMACSS and Responsive Web Design](SMACSS_Responsive_Web_Design.md)
 
 [<<back](terminal_commands.md)
