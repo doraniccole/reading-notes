@@ -1,7 +1,7 @@
 ## Responsive Web Design
 - Responsive web design is the practice of building a website suitable to work on every device and every screen size
 - coined and developed by Ethan Marcotte
-- refer to his book <link(https://abookapart.com/products/responsive-web-design)>Responsive Web Design</link>
+- refer to his book (https://abookapart.com/products/responsive-web-design)[Responsive Web Design]
 
 ### Responsive vs. Adaptive vs. Mobile
 - Responsive means to react quickly and positively to any change
@@ -17,5 +17,5 @@
 ### Flexible Grid
 - 'section'
 - 'container'
-- 'aside'
+- "aside"
 
