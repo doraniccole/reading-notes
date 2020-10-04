@@ -7,15 +7,15 @@
 - Responsive means to react quickly and positively to any change
 - Adaptive means to be easily modified for a new purpose or situation, such as change
 ### Flexible Layouts '#flexible-layouts'
-- built using relative length units, most commonly percentages or 'em' units
-- relative lengths are then used to declare common grid property values such as 'width', 'margin', or 'padding'
+- built using relative length units, most commonly percentages or `em` units
+- relative lengths are then used to declare common grid property values such as `width`, `margin`, or `padding`
 ### Relative Viewport Lengths
-- 'vw' Viewports widthvh
-- 'vh' Viewports heightvmin
-- 'v min' Minimum of the viewport’s height and widthvmax
-- 'v max' Maximum of the viewport’s height and width
+- `vw` Viewports widthvh
+- `vh` Viewports heightvmin
+- `v min` Minimum of the viewport’s height and widthvmax
+- `v max` Maximum of the viewport’s height and width
 ### Flexible Grid
-- 'section'
-- 'container'
-- 'aside'
+- `section`
+- `container`
+- `aside`
 
