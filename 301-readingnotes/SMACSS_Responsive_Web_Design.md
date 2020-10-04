@@ -6,7 +6,7 @@
 ### Responsive vs. Adaptive vs. Mobile
 - Responsive means to react quickly and positively to any change
 - Adaptive means to be easily modified for a new purpose or situation, such as change
-### Flexible Layouts '#flexible-layouts'
+### Flexible Layouts # `flexible-layouts`
 - built using relative length units, most commonly percentages or `em` units
 - relative lengths are then used to declare common grid property values such as `width`, `margin`, or `padding`
 ### Relative Viewport Lengths
