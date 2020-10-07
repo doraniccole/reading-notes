@@ -11,6 +11,7 @@ Three reminders to keep myself in a growth mindset:
 - Persist in the face of setbacks
 - Find lessons, gain inspiration, and celebrate the success of others
 
+## Code 102 - Intro to Software Development
 ## Table of Contents
 - [Learning Markdown](learning_markdown.md)
 - [Coders Computer](Coders_Computer.md)
@@ -24,6 +25,7 @@ Three reminders to keep myself in a growth mindset:
 
 
 ## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 ### Reading Assignments
 1. [Reading Notes Class 01](class_01.md)
@@ -43,8 +45,12 @@ Three reminders to keep myself in a growth mindset:
 15. reading assignment
 
 ## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 
 ## Table of Contents
 - [Read: 01 - SMACSS and Responsive Web Design](301-readingnotes/SMACSS_Responsive_Web_Design.md)
 
-[<<back](terminal_commands.md)
+## Code 401 - Advanced Software Development
+
+[<<back](terminal_commands.md
+
