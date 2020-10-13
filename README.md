@@ -40,7 +40,7 @@ Three reminders to keep myself in a growth mindset:
 
 ## Table of Contents
 - [Read: 01 - SMACSS and Responsive Web Design](301-readingnotes/SMACSS_Responsive_Web_Design.md)
-- [REST](301-readingnotes/REST.md)
+- [Raad: 06 REST](301-readingnotes/REST.md)
 
 ## Code 401 - Advanced Software Development
 
