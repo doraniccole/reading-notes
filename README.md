@@ -30,27 +30,19 @@ Three reminders to keep myself in a growth mindset:
 ### Reading Assignments
 1. [Reading Notes Class 01](class_01.md)
 2. [Reading Notes Class 02](class-02.md)
-3. reading assignment
-4. reading assignment
-5. reading assignment.
 6. [Reading Notes Class 06](read_06_objectliterals.md)
 7. [Reading Notes Class 07](class-07.md)
-8. reading assignment
 9. [Reading Notes Class 10](class-10.md)
-10. reading assignment
-11. reading assignment
-12. reading assignment
-13. reading assignment
-14. reading assignment
-15. reading assignment
+
 
 ## Code 301 Reading Notes
 ## Code 301 - Intermediate Software Development
 
 ## Table of Contents
 - [Read: 01 - SMACSS and Responsive Web Design](301-readingnotes/SMACSS_Responsive_Web_Design.md)
+- [REST](301-readingnotes/REST.md)
 
 ## Code 401 - Advanced Software Development
 
-[<<back](terminal_commands.md
+[<<back](terminal_commands.md)
 
