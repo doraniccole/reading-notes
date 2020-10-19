@@ -33,7 +33,7 @@ Three reminders to keep myself in a growth mindset:
 6. [Reading Notes Class 06](read_06_objectliterals.md)
 7. [Reading Notes Class 07](class-07.md)
 9. [Reading Notes Class 10](class-10.md)
-10. [Reading Notes Class 11](EJS.md)
+
 
 
 ## Code 301 Reading Notes
@@ -44,6 +44,7 @@ Three reminders to keep myself in a growth mindset:
 - [Read: 07 REST](REST.md)
 - [Read: 08 Refactoring](refactoring.md)
 - [Read: 09 Call Stack](call_stack.md)
+- [Read: 11 EJS](EJS.md)
 ## Code 401 - Advanced Software Development
 
 [<<back](terminal_commands.md)
