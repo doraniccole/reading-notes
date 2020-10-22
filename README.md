@@ -46,6 +46,7 @@ Three reminders to keep myself in a growth mindset:
 - [Read: 09 Call Stack](call_stack.md)
 - [Read: 11 EJS](EJS.md)
 - [Read: 12 EJS Partials](EJS_partials.md)
+- [Read: 14 Normalization](normalization.md
 ## Code 401 - Advanced Software Development
 
 [<<back](terminal_commands.md)
